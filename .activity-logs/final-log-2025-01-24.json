@@ -1,0 +1,23 @@
+{
+  "date": "2025-01-24",
+  "summary": "- src\\main\\java\\com\\machapraveen\\HelloWorldServlet.java: 2 changes\n- src\\main\\java: 1 changes\n- src\\main\\java\\com: 1 changes\n- src\\main\\java\\com\\machapraveen: 1 changes\n- pom.xml: 1 changes\n- src\\main\\webapp\\WEB-INF\\web.xml: 1 changes",
+  "statistics": {
+    "totalFiles": 6,
+    "totalChanges": 7,
+    "mostEditedFile": "src\\main\\java\\com\\machapraveen\\HelloWorldServlet.java",
+    "workDuration": "0h 1m",
+    "fileTypes": {
+      "unknown": 3,
+      "java": 2,
+      "xml": 2
+    },
+    "peakActivityHour": "23:00-0:00",
+    "totalLinesChanged": 49
+  },
+  "projectDetails": {
+    "branch": "main",
+    "commitHash": "92d042f",
+    "remote": "https://github.com/machapraveen/maven-web-app.git",
+    "name": "c:\\Users\\prave\\projects\\devops\\maven-web-app"
+  }
+}
